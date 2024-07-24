@@ -53,7 +53,7 @@ This contract has been deployed on the Scroll Sepolia testnet. You can find the 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-github-username/EnhancedPayPool.git
+    git clone https://github.com/umutkarakas34/EnhancedPayPool.git
     cd EnhancedPayPool
     ```
 
